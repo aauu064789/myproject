@@ -7,6 +7,6 @@
 <title>index.html</title>
 </head>
 <body>
-
+	<h2>첫번째 제목 작성</h2>
 </body>
 </html>
